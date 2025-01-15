@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<TcLicenseInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2011/11/TcLicenseInfo">
+	<LicenseInfo>
+		<SystemId>{F9D961FA-F09E-314E-DCDD-D6E05D2A5AA9}</SystemId>
+		<IssueTime>2025-01-13T01:25:00</IssueTime>
+		<ExpireTime>2025-01-21T00:00:00</ExpireTime>
+		<OemId>{5CCB6526-9565-25D7-F22B-636AD46275D0}</OemId>
+		<LicenseKey>ced283aee0dc28b8090d0e84d7ee1664dd1d9b6d8cf57cfd4a1db8961a9c4c0d088d2336eb730d8f6614067e9ddc59676c3f938f5bef08cab22ff9e54e7ae63b50414f2fa231f29cbcac833e2c369f8f058443187459a28528929398deef9b757f1e7d5d798d688f3fd761c5f40c901e320874bedfb9e326c0a758ce3f010fa9377ef5904a6397c5185d824d3c7850e03e78cdd81cf3b7eb1016549d026b1601092169bdac266b53994a516fa6945721125cd138be40395f1afb8b19c155734f1f3781941d10919c116f0586a44354591c6da12ceadb867a72a143a1814a8410e382101dcfed1c6a0a6461b42cfd471941e7bdb595bb93f6bf6539f85c1fd159</LicenseKey>
+		<License>
+			<LicenseId>{D6531CCF-20C0-428D-89AF-5D6825E5E461}</LicenseId>
+			<Name>Oem Demo License</Name>
+			<OrderNo>My Order Number</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{D3FC6A8A-C3E9-4267-946F-7481BDDE13AE}</LicenseId>
+			<Name>MachineOne</Name>
+			<OrderNo>472-115</OrderNo>
+		</License>
+	</LicenseInfo>
+</TcLicenseInfo>
